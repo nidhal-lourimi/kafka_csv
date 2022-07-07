@@ -11,7 +11,7 @@ using kafka connector & spooldir plugin to proccess data from csv file
 ### Dependencies
 
 * docker needed before installing program.
-* confluentinc/cp-zookeeper:5.3.1, confluentinc/cp-kafka-connect:6.2.0, confluentinc/cp-kafka, etc.,
+* confluentinc/cp-zookeeper:5.3.1, confluentinc/cp-kafka-connect:6.2.0, confluentinc/cp-kafka,jcustenborder-kafka-connect-spooldir etc.,
 
 ### Installing
 

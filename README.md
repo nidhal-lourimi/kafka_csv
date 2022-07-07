@@ -15,7 +15,10 @@ using kafka connector & spooldir plugin to proccess data from csv file
 
 ### Installing
 
-* 
+* run this command on the host path
+```sh
+                   docker compose -f "docker-compose.yml" up -d --build
+```
 
 ### Executing program
 
